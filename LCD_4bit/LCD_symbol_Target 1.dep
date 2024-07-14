@@ -1,0 +1,6 @@
+Dependencies for Project 'LCD_symbol', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4E78202C)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\LCD_symbol.c)(0x6606D2F9)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" -o "lcd_symbol.o" --omf_browse "lcd_symbol.crf" --depend "lcd_symbol.d")
+I (C:\Keil4\ARM\INC\Philips\lpc21xx.h)(0x65F98FF0)
+I (C:\Keil4\ARM\RV31\INC\string.h)(0x4E782016)
+I (LCD_functions.h)(0x6606C64F)

@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\v23ce6n4\ARM_Projects\7_segment_timer\timer.uvproj
+Project File Date:  04/24/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling timer.c...
+linking...
+Program Size: Code=1828 RO-data=32 RW-data=44 ZI-data=1260  
+FromELF: creating hex file...
+"timer.axf" - 0 Error(s), 0 Warning(s).

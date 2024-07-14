@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'LCD_symbol.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"lcd_symbol.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "lcd_symbol.o" --strict --scatter "LCD_symbol.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\LCD_symbol.map" -o "LCD_symbol.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'LCD_symbol.axf'
+### ADS-LD Command File: 'LCD_symbol.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'LCD_symbol.lnp', Handle=0x000000CC
+### Writing '.lnp' file
+### ADS-LD Command file 'LCD_symbol.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

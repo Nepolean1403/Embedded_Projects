@@ -1,0 +1,5 @@
+Dependencies for Project 'timer', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4E78202C)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\timer.c)(0x660C0084)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" -o "timer.o" --omf_browse "timer.crf" --depend "timer.d")
+I (C:\Keil4\ARM\INC\Philips\lpc21xx.h)(0x664C8CC4)
+I (timer_delay.h)(0x663390E5)

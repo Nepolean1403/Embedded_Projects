@@ -1,0 +1,8 @@
+Dependencies for Project 'spi_interface', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4E78202C)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main.c)(0x664B50F0)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil4\ARM\INC\Philips\lpc21xx.h)(0x66474D43)
+I (types.h)(0x664B39A3)
+I (spi_fun.h)(0x664B4E75)
+I (mp3204.h)(0x664B39A3)
+I (LCD_functions.h)(0x663390A4)
